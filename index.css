@@ -8,6 +8,29 @@
     background-size:100%;
     background-color: rgb(233, 233, 233);
 }
+.background .navigation{
+    position: relative;
+    left: 380px;
+}
+.background .navigation #nav-bar{
+    left: 1000px;
+}
+.background .navigation #nav-bar .back-link{
+    display: flex;
+    margin-top: -12px;
+    margin-left: 186px;
+}
+.background .navigation #nav-bar .back-link a{
+    margin-right: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    padding: 15px;
+    color: #333;
+    text-decoration: none;
+    padding-top: 30px;
+}
+
+
 #button{
     background-color: black;
     color: white;
@@ -26,10 +49,7 @@
     font-family: Arial,sans-serif;
     text-align: center;
 }
-.navigation{
-    position: relative;
-    left: 380px;
-}
+
 .navigation img{
     margin-top: 12px;
     height: 76px;
@@ -95,20 +115,7 @@
     font-weight: 400;
     letter-spacing: .05em;
 }
-.back-link a{
-    margin-right: 15px;
-    font-family: Arial;
-    font-size: 14px;
-    padding: 15px;
-    color: #333;
-    text-decoration: none;
-    padding-top: 30px;
-}
-.back-link{
-    display: flex;
-    margin-top: -12px;
-    margin-left: 186px;
-}
+
 .last-col{
     width: 80%;
     padding-left: 160px;
@@ -116,9 +123,7 @@
 
 }
 
-#nav-bar{
-    left: 1000px;
-}
+
 .contact-address{
     padding-left:  175px; px;
     padding-top: 0px;
