@@ -133,8 +133,9 @@ header{
 
 .last-col{
     width: 80%;
-    padding-left: 160px;
-    padding-top: 98px;
+    margin: auto;
+    margin-top: auto;
+    margin-top: 6.7%;
 
 }
 
@@ -177,13 +178,13 @@ header{
 
 }
 #upr-footer{
-    margin-top: 90px;
+    margin-top: 6.7%;
     text-align: center;
 }
 #upr-footer a{
     text-decoration: none;
-    margin-right: 15px;
-    margin-left: 15px;
+    margin-right: 1.15%;
+    margin-left: 1.15%;
 }
 #lower-footer{
     /* padding-left: 650px; */
@@ -191,8 +192,8 @@ header{
 }
 #lower-footer a{
     text-decoration: none;    
-    margin-right: 15px;
-    margin-left: 15px;
+    margin-right: 1.15%;
+    margin-left: 1.15%;
 }    
 
 .footer{
