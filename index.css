@@ -165,17 +165,19 @@ header{
 #quot{
     width: 113px;
     height: 105px;
-    padding-left: 520px;
+    padding-left: 46%;
 }
 #before{
-    color: #f22855;
-    padding-left: 80px;
+    /* color: #f22855;
+    padding-left: 80px; */
 
+    display: none;
 }
 #after{
-    color: #f22855;
-    padding-left: 447px;
+    /* color: #f22855;
+    padding-left: 447px; */
 
+    display: none;
 }
 #upr-footer{
     margin-top: 6.7%;
